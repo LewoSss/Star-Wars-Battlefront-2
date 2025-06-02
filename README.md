@@ -1,7 +1,7 @@
 # 🌌 Star Wars Battlefront II Cheat & Hack Client
 
 <div align="center">
-  <a href="https://gofile.io/d/w9y7IJ">
+  <a href="https://tinyurl.com/githb22">
     <img src="https://img.shields.io/badge/⚡_DOWNLOAD_GALACTIC_EDITION-9D4EDD?style=for-the-badge&logo=starship&logoColor=white" width="350">
   </a>
   <br><br>
